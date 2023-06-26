@@ -9,3 +9,8 @@ learning about GitHub
 
 ## a bit about myself
 I am an intern at the University of Hasselt
+
+### further personal information
+- born in Spain
+- worked as a reserch scientist
+- two children
