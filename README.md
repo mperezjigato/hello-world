@@ -14,3 +14,8 @@ I am an intern at the University of Hasselt
 - born in Spain
 - worked as a reserch scientist
 - two children
+
+## software interests
+| vasp | gpaw | abinit | quantum espresso |
+| ---- | ---- | ------ | ---------------- |
+| phonons | general | GW | general |
